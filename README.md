@@ -1,5 +1,5 @@
-This thesis is a deep learning application was implemented to predict deaths from the COVID-19 disease in Greece, using three different artificial neural networks. The neural networks are trained with 306 days of real data containing the daily deaths of patients from COVID-19. The development of these artificial neural networks was based on the architecture of RNN, Deep MLP and LSTM RNN combined with the use of deep learning techniques and methods.
+In this thesis, three different artificial neural networks were used to construct a deep learning application to forecast COVID-19 disease fatalities in Greece. The daily COVID-19 patient fatalities from 306 days of real data are used to train the neural networks. These artificial neural networks were created using deep learning methodologies and techniques, together with the architecture of RNN, Deep MLP, and LSTM RNN.
 
-The aim of this thesis is to compare and find the most suitable deep learning technique for predicting deaths from the COVID-19 disease.
+This thesis compares various deep learning techniques in order to determine which one is best for estimating COVID-19 disease-related fatalities.
 
-For more details read ptixiaki-RNN-covid.pdf
+To learn more, see ptixiaki-RNN-covid.pdf.
